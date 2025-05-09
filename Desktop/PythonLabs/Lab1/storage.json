@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "first_name": "aya",
+            "last_name": "osama",
+            "email": "ao0010512@gmail.com",
+            "password": "123",
+            "phone": "01067587213"
+        }
+    ],
+    "projects": [
+        {
+            "title": "test",
+            "details": "test project using python languagae",
+            "target": "100",
+            "start_date": "2000-11-11",
+            "end_date": "2000-12-11",
+            "owner": "ao0010512@gmail.com"
+        }
+    ]
+}

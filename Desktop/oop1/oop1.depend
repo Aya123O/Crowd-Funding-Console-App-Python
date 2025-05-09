@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733228223 source:/home/aya/Desktop/oop1/main.cpp
+	<iostream>
+
+1733156732 source:/home/aya/Desktop/oop1/swap.cpp
+	<iostream>
+
